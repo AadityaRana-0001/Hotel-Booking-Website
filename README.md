@@ -1,1 +1,58 @@
-Hotel Booking Website is a full-stack web application that enables users to search and book hotel rooms with real-time availability and secure payment integration. The backend, built with Node.js and Express, handles user registration, room inventory management, booking workflows, and admin controls. The frontend, created using React and TailwindCSS, offers a responsive, user-friendly interface with date selection, availability calendars, and booking forms. The application integrates Stripe for secure payment processing and implements JWT-based authentication to protect user data. With features like booking histories, cancellation flow, and dynamic room filtering, this project demonstrates excellence in building scalable, production-ready SaaS platforms—ideal for hospitality or travel-tech use cases.
+🏨 Hotel Booking Website
+This project is a full-stack web application that allows users to browse hotels, view details, and make reservations seamlessly through an interactive interface.
+
+🔧 Key Features:
+Hotel Listings & Details:
+
+Displayed a catalog of available hotels with images, descriptions, amenities, and pricing information.
+
+Implemented individual hotel detail pages to show comprehensive information and booking options.
+
+Search & Filtering:
+
+Enabled users to search for hotels by location, price range, and availability.
+
+Integrated dynamic filtering to improve the user experience and help users find suitable accommodations quickly.
+
+Booking Functionality:
+
+Developed a booking workflow allowing users to select dates, enter guest details, and confirm reservations.
+
+Added booking confirmation screens to enhance clarity and usability.
+
+User Authentication:
+
+Implemented a secure login and registration system so users can manage their bookings and profiles.
+
+Responsive Design:
+
+Designed the website to be fully responsive across desktop, tablet, and mobile devices for a consistent experience.
+
+Data Management:
+
+Used a backend database to store hotel details, user information, and booking records securely.
+
+Admin Panel (Optional):
+
+Included features for admins to add, edit, or remove hotel listings and manage reservations.
+
+🧠 Technologies Used:
+Frontend:
+
+HTML5, CSS3, JavaScript
+
+Backend:
+
+PHP (or specify if you used Node.js, Django, etc.)
+
+Database:
+
+MySQL
+
+Other Tools:
+
+Bootstrap (for responsive design)
+
+XAMPP/WAMP (for local development)
+
+This project showcases how web technologies can be combined to create a complete, user-friendly booking platform that supports both customers and administrators.
